@@ -138,3 +138,4 @@ namespace Ages.JohnHammond
 		}
 	}
 }
+//Colin is gay
